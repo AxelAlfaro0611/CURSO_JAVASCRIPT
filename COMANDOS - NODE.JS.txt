@@ -1,0 +1,4 @@
+1.- npm init -y --> SIRVE PARA CREAR EL PROYECTO
+2.- npm i express  --> SIRVE PARA INSTALAR EL FRAMEWORK DE EXPRESS
+3.- npm i express morgan ejs 
+4.- npm i nodemon -D --> sirve para tener el servidor en caliente
